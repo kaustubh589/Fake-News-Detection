@@ -1,5 +1,5 @@
 <div align="center">
-      <h1> <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Frepository-images.githubusercontent.com%2F384934154%2Fd2588382-279d-49a6-9f83-74bfd8d9306d&tbnid=auMQnCTMXosBOM&vet=12ahUKEwielLz6rcD-AhVG9nMBHfuSAW8QMygHegUIARCiAQ..i&imgrefurl=https%3A%2F%2Fgithub.com%2Ftopics%2Ffakenewsdetection&docid=QKEDxgM_UJgRwM&w=6912&h=3456&q=fake%20news%20prediction%20image&ved=2ahUKEwielLz6rcD-AhVG9nMBHfuSAW8QMygHegUIARCiAQ" width="80px"><br/>Fake News Prediction</h1>
+      <h1><br/>Fake News Prediction</h1>
      </div>
 
 
